@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @OlteanuGeorge, a student in third year at University Politehnica Bucuresti, Faculty of Industrial Engineering and Robotics
+- 👋 Hi, I’m @OlteanuGeorge, a student in the third year at University Politehnica Bucuresti, Faculty of Industrial Engineering and Robotics
 - 👀 I’m interested in Programming, Software development, Engineering. 
 - 🌱 I’m currently learning Java and JavaScript.
 - 💞️ I’m looking to collaborate on different projects. I want to get a internship and learn more about programming.
